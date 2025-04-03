@@ -33,5 +33,4 @@ La estructura del proyecto es la siguiente:
 - **`src/img`**: Imágenes generadas durante el proyecto (gráficas, diagramas, etc.).
 - **`src/notebooks`**: Notebooks utilizados para pruebas y exploración.
 - **`src/results_notebook`**: Notebook final que resume el proceso y contiene la evaluación del modelo.
-- **`src/models`**: Modelos guardados en formato `.pkl`, `.joblib`, etc.
-- **`src/utils`**: Funciones auxiliares o clases para el desarrollo del proyecto.
+- **`src/models`**: Modelos guardados en formato `.pkl`, `.joblib`.
